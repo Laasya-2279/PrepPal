@@ -1,0 +1,91 @@
+
+INTERVIEW TRAINER AGENT - DATASET
+=================================
+
+ROLE: Software Developer
+EXPERIENCE LEVEL: Fresher
+
+Q1: What are the four pillars of Object-Oriented Programming (OOP)?
+A: The four pillars are:
+   - Encapsulation: Hiding internal state and requiring all interaction to be performed through methods.
+   - Inheritance: Mechanism to derive a class from another class.
+   - Abstraction: Hiding complexity by showing only essential features.
+   - Polymorphism: Ability to take many forms — method overloading/overriding.
+
+Q2: Explain the difference between an abstract class and an interface in Java.
+A: Abstract class can have method implementations; interface cannot (until Java 8). A class can implement multiple interfaces but extend only one class.
+
+Tips:
+- Practice LeetCode questions for common data structures.
+- Have 1-2 academic projects ready to discuss.
+- Revise basic DBMS, OS, and OOP concepts.
+
+---
+
+ROLE: Data Analyst
+EXPERIENCE LEVEL: 1-2 Years
+
+Q1: How do you handle missing data in a dataset?
+A: Common techniques include removal, mean/median substitution, interpolation, or model-based imputation.
+
+Q2: What is the difference between INNER JOIN and OUTER JOIN?
+A: INNER JOIN returns matching rows; OUTER JOIN returns matching + non-matching rows with NULLs for missing data.
+
+Tips:
+- Practice SQL queries (window functions, group by, joins).
+- Highlight work with Excel, Python (Pandas), or BI tools.
+- Be ready to explain business impact of analysis.
+
+---
+
+ROLE: Frontend Developer
+EXPERIENCE LEVEL: Fresher
+
+Q1: What is the Virtual DOM in React?
+A: A lightweight JS object which is a copy of the real DOM. React uses it to perform efficient UI updates.
+
+Q2: How do you improve web page performance?
+A: Minify resources, lazy-load images, use CDNs, reduce DOM size, and apply caching strategies.
+
+Tips:
+- Keep a live portfolio (Netlify, GitHub Pages).
+- Talk about accessibility and responsive design.
+- Know basic SEO and Core Web Vitals.
+
+---
+
+SECTION: HR QUESTIONS (All Roles)
+
+Q1: Tell me about yourself.
+A: Structure: Background → Projects/Internships → Career goal → Why this role. Keep it 60–90 seconds.
+
+Q2: Describe a time you faced a team conflict.
+A: Use STAR method — Situation, Task, Action, Result. Focus on how you resolved it respectfully.
+
+Q3: What is your biggest strength and weakness?
+A: Strength – Problem-solving and adaptability. Weakness – Public speaking (but improving through presentations and webinars).
+
+Tips:
+- Be honest but strategic. Show growth and self-awareness.
+- Smile, keep good posture and speak clearly.
+
+---
+
+SECTION: INDUSTRY EXPECTATIONS
+
+SOFTWARE ENGINEER:
+- Expected to know DSA, system design (basic), debugging, and clean code.
+- Strong fundamentals in OOP, DBMS, and OS.
+
+DATA ANALYST:
+- Should be able to clean, transform, and visualize data.
+- Strong communication of insights and use of tools (Excel, SQL, Power BI, Python).
+
+FRONTEND DEVELOPER:
+- Know React, CSS frameworks, responsive layouts, and browser dev tools.
+- Accessibility, cross-browser support, and performance optimization matter.
+
+BEHAVIORAL:
+- Clarity of thought, humility, and emotional intelligence.
+- Be ready to accept feedback and show learning mindset.
+

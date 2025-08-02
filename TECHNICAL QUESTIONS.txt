@@ -1,0 +1,184 @@
+📄 TECHNICAL QUESTIONS — EXTENDED
+
+👩‍💻 Software Developer (Fresher)
+What are the four pillars of OOP?
+
+Explain the difference between an abstract class and an interface.
+
+Write a program to reverse a linked list.
+
+What is a deadlock? How can it be prevented?
+
+Explain the lifecycle of a thread in Java.
+
+What is the difference between stack and heap memory?
+
+Explain pass by value vs pass by reference.
+
+What are REST APIs and how do they work?
+
+How is multithreading different from multiprocessing?
+
+What are the advantages of using version control systems like Git?
+
+Explain garbage collection in Java or Python.
+
+How do you handle exceptions in code?
+
+What is a static variable and how is it different from instance variables?
+
+What is recursion? Give an example.
+
+What is the purpose of constructors?
+
+Difference between array and linked list.
+
+What is Big-O notation?
+
+Explain bubble sort and its time complexity.
+
+What is the difference between a compiler and an interpreter?
+
+What is encapsulation with an example?
+
+Explain method overloading and overriding.
+
+How does hashing work?
+
+What is a hash map?
+
+What is the difference between depth-first and breadth-first search?
+
+What is the Singleton pattern?
+
+How is memory allocated in C?
+
+Difference between stack overflow and heap overflow.
+
+What is modular programming?
+
+What are access modifiers?
+
+Explain the concept of virtual functions.
+
+📊 Data Analyst (1–2 Years)
+How do you handle missing data in a dataset?
+
+What is the difference between INNER JOIN and OUTER JOIN?
+
+Explain the Central Limit Theorem.
+
+How would you visualize categorical vs numerical data?
+
+What is the purpose of data normalization?
+
+What is a confusion matrix and how is it used?
+
+Explain the difference between correlation and causation.
+
+What is p-value in statistics?
+
+How do you decide which chart or graph to use for a dataset?
+
+Explain one scenario where linear regression would not work well.
+
+What are some common assumptions in linear regression?
+
+Explain the difference between variance and standard deviation.
+
+What is multicollinearity?
+
+What is overfitting in machine learning?
+
+What are outliers and how do you deal with them?
+
+Explain the difference between population and sample.
+
+What is data wrangling?
+
+What are KPIs and how are they measured?
+
+How would you clean a dataset with multiple missing values?
+
+What is hypothesis testing?
+
+How do you handle categorical variables?
+
+What are dummy variables?
+
+Explain types of data: nominal, ordinal, interval, ratio.
+
+What are percentiles and quartiles?
+
+What is the difference between Type I and Type II error?
+
+What is z-score and how is it used?
+
+How do you interpret a boxplot?
+
+What are common data visualization best practices?
+
+What are the pros and cons of Excel vs SQL vs Python?
+
+Describe an end-to-end data analysis pipeline you worked on.
+
+🎨 Frontend Developer (Fresher)
+What is the Virtual DOM in React?
+
+Explain how CSS Flexbox works.
+
+What are the differences between localStorage and sessionStorage?
+
+How do you improve web page performance?
+
+What is responsive design?
+
+What is the difference between state and props in React?
+
+How does the browser render a webpage?
+
+What is event bubbling in JavaScript?
+
+What are media queries in CSS?
+
+Explain SSR vs CSR.
+
+What is JSX?
+
+How does React handle rendering and re-rendering?
+
+What is the difference between controlled and uncontrolled components?
+
+What are hooks in React?
+
+Explain useEffect with an example.
+
+What is the shadow DOM?
+
+What are pseudo-classes in CSS?
+
+Difference between == and === in JavaScript.
+
+What are promises and async/await?
+
+What is hoisting in JavaScript?
+
+Explain closures in JavaScript.
+
+What is the DOMContentLoaded event?
+
+How do you optimize image loading on websites?
+
+What are progressive web apps?
+
+What is the difference between GET and POST requests?
+
+Explain CORS and how to resolve CORS errors.
+
+What are some accessibility best practices?
+
+How do you debug frontend performance issues?
+
+What is a content delivery network (CDN)?
+
+Explain throttling and debouncing in JS.

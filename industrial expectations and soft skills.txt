@@ -1,0 +1,71 @@
+💻 Software Developer (Fresher to 2 Years)
+Strong grasp on data structures & algorithms (arrays, stacks, trees, sorting, searching).
+
+Deep understanding of OOP, DBMS, OS, and computer networks basics.
+
+Version control (Git), understanding Git branching, pull requests, and merge conflicts.
+
+Knowledge of basic system design: microservices, load balancers, APIs.
+
+Clean coding principles (SOLID, DRY), good commenting and documentation habits.
+
+Familiarity with unit testing (JUnit, pytest) is a bonus.
+
+Understanding of CI/CD pipelines and DevOps fundamentals is valued.
+
+Agile/Scrum awareness, participation in sprints, or understanding of user stories.
+
+Interviewers assess for clarity in communication, problem-solving speed, and logical thinking more than deep experience.
+
+📊 Data Analyst (1–3 Years)
+Proficient in SQL, including subqueries, joins, window functions, and CTEs.
+
+Strong hands-on with Python (Pandas, NumPy, Matplotlib, Seaborn).
+
+Comfortable with Power BI, Tableau, or similar tools.
+
+Solid understanding of statistics: z-test, p-values, distributions, hypothesis testing.
+
+Should be able to clean, transform, visualize, and present datasets.
+
+Exposure to ETL pipelines or dashboard creation is a big plus.
+
+Domain knowledge helps — e.g., finance, e-commerce, healthcare.
+
+Able to present insights in business terms, not just technical terms.
+
+Expected to answer: “So what?” after every analysis — what does it mean for the business?
+
+🎨 Frontend Developer (Fresher to 2 Years)
+Skilled with HTML, CSS, JS — and at least one framework (React, Angular, Vue).
+
+Must understand component-based architecture, reusability, and state management.
+
+Familiar with responsive design, Flexbox, Grid, media queries.
+
+Knows about DOM, event handling, and JS basics (closures, promises, async/await).
+
+Familiar with tools like Figma, Zeplin, or converting design specs to code.
+
+Experience with cross-browser testing, debugging layout issues.
+
+Awareness of SEO fundamentals, web accessibility (a11y), and performance optimizations.
+
+Use of dev tools for inspecting performance, layout, and network bottlenecks.
+
+🌱 Soft Skills (All Roles)
+Communication: The #1 differentiator. Can you explain your thinking? Can you handle feedback?
+
+Team collaboration: Do you play well in groups? Can you take and give ideas respectfully?
+
+Time management: Prioritizing tasks, handling multiple deadlines.
+
+Adaptability: Willing to learn new tools, languages, or methods quickly.
+
+Ownership: Taking responsibility when things go wrong — no blame games.
+
+Emotional intelligence: Reading a room, staying calm under pressure, being self-aware.
+
+Proactive attitude: Offering help, asking clarifying questions, showing initiative without being asked.
+
+Growth mindset: Willing to fail, reflect, and improve. Always evolving.
