@@ -45,13 +45,15 @@ Here are some examples to get started:
 
 “What are some common HR round questions for freshers?”
 
-“Ask me technical questions for a Python Developer with 2 years of experience.”
+# Agent Demo
+### Home
+![Agent Lab Setup](Home.png)
 
-“Suggest improvements to my answer: ‘I left my previous job to explore better opportunities.’”
+### 💬 Chat Interface Demo
+![Chat Demo](que%201%20part%201.png)
 
-“Help me practice STAR method responses for teamwork-related questions.”
-
-“Give me trending questions for product-based companies hiring for backend engineers.”
+### 📑 Deployment Success
+![Deployment Success](Deployment.png)
 
 # Technologies Used
 -> IBM Cloud Lite Services
@@ -79,16 +81,6 @@ Here are some examples to get started:
 
 5. University placement cells, training centers, and EdTech platforms
 
-# Future Scope
--> Integration of voice-based interview simulations
-
--> AI-powered resume analyzer and enhancement suggestions
-
--> Real-time job portal and application tracker integration
-
--> Support for multilingual interactions
-
--> Mentor-student collaboration tools
-
--> Adaptive learning recommendations with performance analytics
+# Acknowledgements
+This project was created as part of the Edunet IBM SkillsBuild Academic Internship, powered by IBM Cloud watsonx.ai Studio and Agent Lab.
 
