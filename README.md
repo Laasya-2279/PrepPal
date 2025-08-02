@@ -21,6 +21,38 @@ In the modern job market, preparing for interviews can be time-consuming, fragme
 
 ☁️ Deployed on IBM Cloud watsonx.ai ecosystem
 
+# How to Use PrepPal
+1.  Launch the PrepPal Agent.
+
+2.  Greet the assistant – it'll introduce itself and prompt you for your job role or resume details.
+
+3.  Enter your role (e.g., “Software Engineer with 1 year of experience”).
+
+4.  Choose your prep mode – mock interview, HR behavioral practice, technical Q&A, etc.
+
+5.  Receive personalized questions, feedback, and tips tailored to your input.
+
+6.  Refine your responses based on feedback, or generate new questions on demand.
+
+# Example Prompts
+Here are some examples to get started: 
+
+“I am applying for a Frontend Developer role. Can you help me prepare?”
+
+“Give me behavioral questions based on my resume.”
+
+“Simulate a mock interview for a Data Analyst position.”
+
+“What are some common HR round questions for freshers?”
+
+“Ask me technical questions for a Python Developer with 2 years of experience.”
+
+“Suggest improvements to my answer: ‘I left my previous job to explore better opportunities.’”
+
+“Help me practice STAR method responses for teamwork-related questions.”
+
+“Give me trending questions for product-based companies hiring for backend engineers.”
+
 # Technologies Used
 -> IBM Cloud Lite Services
 
